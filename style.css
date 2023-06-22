@@ -12,3 +12,14 @@ ul.li{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* background-color: blanchedalmond; */
 }
+.p1{
+    color: lightblue;
+    background-color: brown;
+    text-transform: capitalize;
+    text-align: justify;
+}
+.p2{
+    background-color: black;
+    color: aqua;
+    /*line-height: 1.5px;*/
+}
